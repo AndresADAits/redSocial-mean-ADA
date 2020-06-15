@@ -1,8 +1,8 @@
 # redSocial-mean-ADA
-## TFG José Andrés Fernández Francisco
+ TFG José Andrés Fernández Francisco
 
 
-###Requisitos previos
+### Requisitos previos
 - Tener instalado MongoDB
 [Descargarlo en caso contrario](https://www.mongodb.com/try/download/community)
 - Es recomendable tener instalado Robo 3T
@@ -14,12 +14,12 @@
 [Descargarlo en caso contrario](https://nodejs.org/es/)
 
 
-###Acceder desde consola a la ruta de api 
+### Acceder desde consola a la ruta de api 
 `npm start`
 ### La consola debe enviar mensaje
 `La conexión a la base de datos es correcta
 Servidor corriendo en http://localhost:3800`
-###Acceder desde consola a la ruta de client 
+### Acceder desde consola a la ruta de client 
 `npm install`
 `npm start`
 ### La consola debe enviar mensaje
