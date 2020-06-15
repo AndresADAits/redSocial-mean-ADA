@@ -8,11 +8,12 @@
 - Es recomendable tener instalado Robo 3T
 [Descargarlo en caso contrario](https://robomongo.org/download)
 - Crear una conexión local con el puerto por defecto de mongo : 27017
-- Crear base de datos llamada `redSocial-mean` o cambiar linea 9 de `api\index.js`
 - Comprobar la instalación de node.js y npm
 `node -v` y `npm -v`
 [Descargarlo en caso contrario](https://nodejs.org/es/)
 
+### Opcional
+- Crear base de datos llamada `redSocial-mean` o cambiar linea 9 de `api\index.js`
 
 ### Acceder desde consola a la ruta de api 
 `npm start`
