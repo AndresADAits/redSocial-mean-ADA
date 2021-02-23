@@ -22,7 +22,7 @@
     "@types/jquery": "^3.3.38",
     "angular2-moment": "^1.9.0",
     "bootstrap": "^3.3.6",
-    "jquery": "^1.12.4",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
     "rxjs": "~6.5.4",
     "rxjs-compat": "^6.5.5",
